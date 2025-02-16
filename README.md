@@ -19,7 +19,7 @@ All the math was executed in Python. Due to rounding errors, the genotype freque
 At one point during the hackathon I opened a Nature Valley bar over my laptop keyboard. This situation ended as well as one would expect.
 
 ## Accomplishments that I'm proud of
-This was my first time building a web app, and I'm proud that I was able to get it to run. I'm proud that I took creative liberties with the project and that I genuinely had fun while coding it, because I kept thinking to myself, I'm literally making the first ever psychokinetic worm evolution simulator, which is so cool, because who else in the world can say that they made the first ever psychokinetic worm evolution simulator? I guess nobody!
+I have little experience building web apps, and I'm proud that I was able to get it to run. I'm proud that I took creative liberties with the project and that I genuinely had fun while coding it, because I kept thinking to myself, I'm literally making the first ever psychokinetic worm evolution simulator, which is so cool, because who else in the world can say that they made the first ever psychokinetic worm evolution simulator? I guess nobody!
 
 Also I'm extra proud of the Worm Oracle. It's not the interactive learning assistant the world wanted, but maybe the one it needed. 
 
