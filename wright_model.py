@@ -3,13 +3,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 import time
-worm_pics = True
-worm_oracle = True
+worm_pics = False
 
 #Implement feature that occasionally has creepy worm pic pop up 
 def show_worms():
     if worm_pics == True:
-        if random.random() < 0.2:
+        if random.random() < 0.:
             image_placeholder = st.empty()
             image = random.choice(worm_images)
             image_placeholder.image(image)
